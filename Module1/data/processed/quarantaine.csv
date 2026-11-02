@@ -1,0 +1,188 @@
+﻿id_source,source,date,transaction,type_bien,region,ville,quartier,prix_fcfa,surface_m2,pieces,sdb,statut,description,motifs_quarantaine,avertissements,doublon_exact,doublon_probable
+PLT-00062,plateforme_immo_sn,2023-04-04,vente,terrain,Kédougou,Salémata,Est,,1131.9,0.0,0.0,En vente,Terrain à Salémata. Contact via plateforme.,prix_absent_ou_invalide,,False,False
+PLT-00077,plateforme_immo_sn,2028-12-01,vente,appartement,Matam,Matam,Est,64862000.0,78.4,1.0,4.0,Vendu,Appartement à Matam. Contact via plateforme.,date_future_transaction_finalisee,,False,False
+PLT-00085,plateforme_immo_sn,2025-11-11,vente,maison,Tambacounda,Tambacounda,Est,,163.7,4.0,1.0,Vendu,,prix_absent_ou_invalide,,False,False
+PLT-00211,plateforme_immo_sn,2020-08-07,location,appartement,Ziguinchor,Ziguinchor,Ouest,595000.0,,1.0,4.0,Loué,Appartement à Ziguinchor. Contact via plateforme.,surface_absente_ou_invalide,,False,False
+PLT-00222,plateforme_immo_sn,2019-06-25,vente,appartement,Dakar,Rufisque,Sud,,55.1,3.0,2.0,Sous offre,Appartement à Rufisque. Contact via plateforme.,prix_absent_ou_invalide,,False,False
+PLT-00249,plateforme_immo_sn,2022-04-18,vente,villa,Louga,Linguère,Est,162813000.0,,2.0,2.0,Vendu,Villa à Linguère. Contact via plateforme.,surface_absente_ou_invalide,,False,False
+PLT-00507,plateforme_immo_sn,2023-09-10,vente,appartement,Kaolack,Kaolack,Ouest,85240000.0,,6.0,3.0,Vendu,Appartement à Kaolack. Contact via plateforme.,surface_absente_ou_invalide,,False,False
+PLT-00676,plateforme_immo_sn,2021-07-24,vente,terrain,Fatick,Gossas,Résidentiel,,472.4,0.0,0.0,En vente,Terrain à Gossas. Contact via plateforme.,prix_absent_ou_invalide,,False,False
+PLT-00687,plateforme_immo_sn,2023-12-24,vente,appartement,Diourbel,Bambey,Populaire,63774000.0,,4.0,3.0,En vente,,surface_absente_ou_invalide,,False,False
+PLT-00712,plateforme_immo_sn,2023-06-27,vente,appartement,Kaolack,Kaolack,Ouest,,113.3,5.0,2.0,En vente,Appartement à Kaolack. Contact via plateforme.,prix_absent_ou_invalide,,False,False
+PLT-00729,plateforme_immo_sn,2025-12-03,location,maison,Saint-Louis,Podor,Ouest,575000.0,,1.0,4.0,Loué,Maison à Podor. Contact via plateforme.,surface_absente_ou_invalide,,False,False
+PLT-00676,plateforme_immo_sn,2021-07-24,vente,terrain,Fatick,Gossas,Résidentiel,,472.4,0.0,0.0,En vente,Terrain à Gossas. Contact via plateforme.,prix_absent_ou_invalide,,False,False
+AGT-00826,agence_teranga,2023-09-12,,appartement,Louga,Louga,,31286000.0,-30.0,3.0,1.0,Vendu,,surface_absente_ou_invalide,surface_atypique,False,False
+AGT-00950,agence_teranga,2019-12-23,,appartement,Fatick,Kaolack-Fatick,,0.0,66.6,1.0,3.0,Vendu,,prix_absent_ou_invalide,prix_atypique,False,False
+AGT-00994,agence_teranga,2025-02-04,,terrain,Kaffrine,Koungheul,,0.0,1250.6,0.0,0.0,Disponible,,prix_absent_ou_invalide,prix_atypique,False,False
+AGT-01044,agence_teranga,2019-02-02,,maison,Fatick,Gossas,,0.0,188.5,3.0,2.0,Vendu,,prix_absent_ou_invalide,prix_atypique,False,False
+AGT-01065,agence_teranga,2018-09-02,,appartement,Kolda,Médina Yoro Foulah,,47828000.0,-25.0,6.0,1.0,Vendu,,surface_absente_ou_invalide,surface_atypique,False,False
+AGT-01238,agence_teranga,2019-08-24,,terrain,Kédougou,Kédougou,,15497000.0,-30.0,0.0,0.0,En vente,,surface_absente_ou_invalide,surface_atypique,False,False
+AGT-01302,agence_teranga,2022-10-14,,studio,Kolda,Médina Yoro Foulah,,0.0,32.5,1.0,1.0,Disponible,,prix_absent_ou_invalide,prix_atypique,False,False
+AGT-01342,agence_teranga,2020-04-09,,appartement,Matam,Ourossogui,,0.0,52.4,6.0,4.0,Vendu,,prix_absent_ou_invalide,prix_atypique,False,False
+AGT-01356,agence_teranga,2021-06-08,,villa,Kaolack,Kaolack,,224970000.0,-12.0,6.0,4.0,Vendu,,surface_absente_ou_invalide,surface_atypique,False,False
+PRT-01464,particuliers,2019-06-29,location,maison,Saint-Louis,Saint-Louis,,490000.0,,1.0,2.0,Loué,,surface_absente_ou_invalide,,False,False
+PRT-01468,particuliers,2023-02-23,location,appartement,Louga,Kébémer,,555000.0,,3.0,2.0,Loué,,surface_absente_ou_invalide,,False,False
+PRT-01471,particuliers,2024-03-09,vente,maison,Dakar,Pikine,,71415000.0,,6.0,3.0,À confirmer,,surface_absente_ou_invalide,,False,False
+PRT-01472,particuliers,2021-06-24,vente,maison,Kolda,Vélingara,,,60.2,1.0,2.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-01476,particuliers,2025-01-02,vente,villa,Tambacounda,Goudiry,,136663000.0,,3.0,3.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01477,particuliers,2024-04-22,vente,villa,Fatick,Fatick,,,318.1,2.0,2.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-01484,particuliers,2023-01-16,vente,appartement,Saint-Louis,Saint-Louis,,68635000.0,,6.0,2.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01485,particuliers,2022-11-04,location,maison,Kaolack,Guinguinéo,,,222.4,4.0,4.0,Loué,,prix_absent_ou_invalide,,False,False
+PRT-01496,particuliers,2024-01-17,location,villa,Thiès,Mbour,,,427.0,5.0,1.0,Disponible,,prix_absent_ou_invalide,,False,False
+PRT-01499,particuliers,2018-06-30,vente,villa,Kaolack,Nioro Du Rip,,,219.9,2.0,4.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-01503,particuliers,2023-11-24,location,maison,Sédhiou,Sédhiou,,,198.2,1.0,1.0,Loué,,prix_absent_ou_invalide,,False,False
+PRT-01517,particuliers,2023-11-19,location,terrain,Fatick,Gossas,,,754.2,0.0,0.0,Loué,,prix_absent_ou_invalide,,False,False
+PRT-01520,particuliers,2024-11-02,vente,terrain,Louga,Louga,,68734000.0,,0.0,0.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01523,particuliers,2019-01-13,vente,villa,Thiès,Mbour,,,198.1,6.0,3.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-01526,particuliers,2024-10-24,vente,villa,Saint-Louis,Saint-Louis,,428851000.0,,2.0,4.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01527,particuliers,2020-06-14,vente,terrain,Thiès,Tivaouane,,27665000.0,,0.0,0.0,À confirmer,,surface_absente_ou_invalide,,False,False
+PRT-01529,particuliers,2021-05-30,location,studio,Kolda,Vélingara,,,22.5,4.0,2.0,Disponible,,prix_absent_ou_invalide,,False,False
+PRT-01530,particuliers,2023-12-06,location,studio,Kaolack,Nioro Du Rip,,,24.8,3.0,1.0,Loué,,prix_absent_ou_invalide,,False,False
+PRT-01535,particuliers,2020-03-07,vente,terrain,Dakar,Keur Massar,,42580000.0,,0.0,0.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-01536,particuliers,2022-07-14,vente,studio,Kaffrine,Kaffrine,,13317000.0,,5.0,1.0,À confirmer,,surface_absente_ou_invalide,,False,False
+PRT-01537,particuliers,2022-09-07,vente,appartement,Kolda,Vélingara,,,123.0,6.0,2.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-01545,particuliers,2024-09-25,vente,appartement,Sédhiou,Sédhiou,,68287000.0,,1.0,1.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-01548,particuliers,2022-12-21,vente,terrain,Sédhiou,Sédhiou,,83821000.0,,0.0,0.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-01550,particuliers,2019-07-16,vente,maison,Diourbel,Bambey,,167356000.0,,4.0,4.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01563,particuliers,2019-08-24,vente,studio,Kaffrine,Birkelane,,,32.4,4.0,2.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-01565,particuliers,2020-12-21,vente,villa,Sédhiou,Bounkiling,,361348000.0,,6.0,2.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01571,particuliers,2022-04-08,location,appartement,Kolda,Médina Yoro Foulah,,215000.0,,6.0,4.0,Disponible,,surface_absente_ou_invalide,,False,False
+PRT-01573,particuliers,2025-03-19,vente,maison,Kaolack,Guinguinéo,,53901000.0,,6.0,2.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-01581,particuliers,2022-05-02,vente,appartement,Kaolack,Nioro Du Rip,,37701000.0,,3.0,4.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-01586,particuliers,2019-09-06,location,appartement,Fatick,Kaolack-Fatick,,465000.0,,1.0,1.0,Disponible,,surface_absente_ou_invalide,,False,False
+PRT-01592,particuliers,2022-10-20,location,terrain,Ziguinchor,Bignona,,,1099.1,0.0,0.0,Loué,,prix_absent_ou_invalide,,False,False
+PRT-01593,particuliers,2020-07-29,location,appartement,Dakar,Dakar,,735000.0,,2.0,2.0,Disponible,,surface_absente_ou_invalide,,False,False
+PRT-01599,particuliers,2021-06-02,location,appartement,Saint-Louis,Podor,,,105.0,1.0,2.0,Disponible,,prix_absent_ou_invalide,,False,False
+PRT-01617,particuliers,2024-07-31,vente,maison,Sédhiou,Sédhiou,,175172000.0,,2.0,4.0,À confirmer,,surface_absente_ou_invalide,,False,False
+PRT-01619,particuliers,2019-04-17,vente,maison,Thiès,Mbour,,,151.3,2.0,1.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-01629,particuliers,2018-04-16,location,terrain,Dakar,Guédiawaye,,210000.0,,0.0,0.0,Loué,,surface_absente_ou_invalide,,False,False
+PRT-01630,particuliers,2021-02-12,vente,maison,Thiès,Tivaouane,,67985000.0,,6.0,1.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-01632,particuliers,2025-09-04,location,studio,Thiès,Tivaouane,,,33.7,3.0,1.0,Disponible,,prix_absent_ou_invalide,,False,False
+PRT-01642,particuliers,2022-11-25,location,terrain,Diourbel,Bambey,,,118.5,0.0,0.0,Loué,,prix_absent_ou_invalide,,False,False
+PRT-01644,particuliers,2018-10-05,vente,terrain,Thiès,Tivaouane,,,1348.5,0.0,0.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-01646,particuliers,2025-10-23,vente,villa,Kaffrine,Koungheul,,,248.4,6.0,1.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-01649,particuliers,2023-06-10,location,terrain,Thiès,Joal-Fadiouth,,,1446.1,0.0,0.0,Disponible,,prix_absent_ou_invalide,,False,False
+PRT-01665,particuliers,2023-09-27,vente,terrain,Kédougou,Saraya,,,,0.0,0.0,Vendu,,prix_absent_ou_invalide;surface_absente_ou_invalide,,False,False
+PRT-01680,particuliers,2023-04-28,vente,terrain,Kédougou,Saraya,,72106000.0,,0.0,0.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01690,particuliers,2025-03-04,vente,terrain,Kaolack,Guinguinéo,,,908.0,0.0,0.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-01709,particuliers,2020-11-05,location,appartement,Kaffrine,Birkelane,,,,6.0,4.0,Loué,,prix_absent_ou_invalide;surface_absente_ou_invalide,,False,False
+PRT-01712,particuliers,2019-08-20,vente,maison,Diourbel,Diourbel,,142239000.0,,2.0,2.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01719,particuliers,2022-09-25,location,villa,Kédougou,Kédougou,,,161.5,4.0,3.0,Loué,,prix_absent_ou_invalide,,False,False
+PRT-01720,particuliers,2020-07-09,location,maison,Ziguinchor,Ziguinchor,,,105.4,3.0,1.0,Loué,,prix_absent_ou_invalide,,False,False
+PRT-01721,particuliers,2024-12-08,location,terrain,Louga,Linguère,,105000.0,,0.0,0.0,Disponible,,surface_absente_ou_invalide,,False,False
+PRT-01724,particuliers,2024-11-21,vente,local commercial,Fatick,Gossas,,,293.9,0.0,4.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-01727,particuliers,2024-05-30,vente,villa,Ziguinchor,Ziguinchor,,197255000.0,,4.0,3.0,À confirmer,,surface_absente_ou_invalide,,False,False
+PRT-01736,particuliers,2022-03-09,location,appartement,Diourbel,Bambey,,,84.7,5.0,1.0,Disponible,,prix_absent_ou_invalide,,False,False
+PRT-01739,particuliers,2021-07-09,vente,appartement,Saint-Louis,Saint-Louis,,,134.4,6.0,1.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-01754,particuliers,2025-11-05,location,appartement,Kaffrine,Kaffrine,,,,2.0,2.0,Loué,,prix_absent_ou_invalide;surface_absente_ou_invalide,,False,False
+PRT-01755,particuliers,2024-12-04,vente,maison,Kaolack,Guinguinéo,,146326000.0,,4.0,1.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01759,particuliers,2025-11-01,vente,terrain,Diourbel,Diourbel,,51354000.0,,0.0,0.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-01761,particuliers,2018-07-07,vente,terrain,Kaolack,Kaolack,,,,0.0,0.0,Vendu,,prix_absent_ou_invalide;surface_absente_ou_invalide,,False,False
+PRT-01765,particuliers,2019-10-06,vente,chambre,Dakar,Dakar,,,12.1,3.0,0.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-01773,particuliers,2025-10-17,location,studio,Diourbel,Diourbel,,,35.4,1.0,3.0,Loué,,prix_absent_ou_invalide,,False,False
+PRT-01774,particuliers,2020-02-14,location,studio,Kaffrine,Kaffrine,,240000.0,,5.0,2.0,Disponible,,surface_absente_ou_invalide,,False,False
+PRT-01777,particuliers,2025-09-30,location,villa,Matam,Kanel,,1210000.0,,1.0,3.0,Disponible,,surface_absente_ou_invalide,,False,False
+PRT-01778,particuliers,2020-06-03,location,villa,Saint-Louis,Richard-Toll,,705000.0,,2.0,4.0,Loué,,surface_absente_ou_invalide,,False,False
+PRT-01782,particuliers,2025-12-20,location,local commercial,Thiès,Joal-Fadiouth,,,228.6,0.0,1.0,Disponible,,prix_absent_ou_invalide,,False,False
+PRT-01791,particuliers,2022-06-01,vente,chambre,Saint-Louis,Podor,,,11.1,3.0,0.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-01798,particuliers,2020-12-03,vente,appartement,Kaolack,Guinguinéo,,87912000.0,,6.0,2.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01802,particuliers,2023-08-22,location,chambre,Kaffrine,Birkelane,,90000.0,,3.0,0.0,Disponible,,surface_absente_ou_invalide,prix_atypique,False,False
+PRT-01814,particuliers,2019-09-17,vente,terrain,Dakar,Dakar,,20913000.0,,0.0,0.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01816,particuliers,2020-03-09,vente,appartement,Thiès,Tivaouane,,,70.4,5.0,1.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-01817,particuliers,2018-12-22,vente,maison,Sédhiou,Sédhiou,,61716000.0,,1.0,2.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-01823,particuliers,2019-10-11,location,villa,Louga,Linguère,,700000.0,,1.0,4.0,Loué,,surface_absente_ou_invalide,,False,False
+PRT-01831,particuliers,2019-05-15,location,studio,Fatick,Gossas,,105000.0,,6.0,1.0,Loué,,surface_absente_ou_invalide,,False,False
+PRT-01836,particuliers,2019-10-11,vente,terrain,Fatick,Fatick,,,1288.2,0.0,0.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-01838,particuliers,2023-11-14,vente,villa,Fatick,Gossas,,,436.1,4.0,2.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-01842,particuliers,2018-10-11,vente,appartement,Diourbel,Touba,,,168.5,4.0,3.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-01843,particuliers,2018-01-29,location,maison,Ziguinchor,Bignona,,,87.4,5.0,4.0,Disponible,,prix_absent_ou_invalide,,False,False
+PRT-01845,particuliers,2018-05-19,vente,chambre,Louga,Louga,,16853000.0,,2.0,0.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-01855,particuliers,2024-05-27,vente,appartement,Saint-Louis,Saint-Louis,,,59.0,4.0,1.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-01861,particuliers,2022-05-08,vente,studio,Kaolack,Guinguinéo,,,25.8,5.0,3.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-01862,particuliers,2019-10-08,vente,studio,Dakar,Pikine,,20863000.0,,2.0,2.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-01864,particuliers,2024-01-22,location,maison,Kolda,Médina Yoro Foulah,,,84.8,6.0,3.0,Disponible,,prix_absent_ou_invalide,,False,False
+PRT-01874,particuliers,2019-06-27,location,maison,Thiès,Joal-Fadiouth,,795000.0,,6.0,4.0,Loué,,surface_absente_ou_invalide,,False,False
+PRT-01876,particuliers,2020-01-20,vente,chambre,Kaffrine,Birkelane,,,29.6,5.0,0.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-01883,particuliers,2021-07-27,vente,maison,Matam,Kanel,,145509000.0,,1.0,2.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01901,particuliers,2019-06-14,vente,maison,Kédougou,Saraya,,150291000.0,,2.0,4.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01903,particuliers,2024-05-16,vente,studio,Sédhiou,Sédhiou,,43824000.0,,4.0,4.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-01920,particuliers,2022-09-29,vente,maison,Fatick,Kaolack-Fatick,,103807000.0,,4.0,4.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-01924,particuliers,2025-03-06,location,studio,Ziguinchor,Oussouye,,180000.0,,2.0,1.0,Disponible,,surface_absente_ou_invalide,,False,False
+PRT-01942,particuliers,2018-08-13,vente,villa,Thiès,Tivaouane,,,257.2,1.0,3.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-01945,particuliers,2021-09-27,location,studio,Saint-Louis,Richard-Toll,,160000.0,,2.0,1.0,Disponible,,surface_absente_ou_invalide,,False,False
+PRT-01952,particuliers,2024-08-03,location,studio,Tambacounda,Bakel,,160000.0,,1.0,1.0,Disponible,,surface_absente_ou_invalide,,False,False
+PRT-01956,particuliers,2023-10-25,location,maison,Tambacounda,Goudiry,,580000.0,,2.0,1.0,Disponible,,surface_absente_ou_invalide,,False,False
+PRT-01962,particuliers,2024-06-04,location,maison,Kédougou,Salémata,,755000.0,,4.0,1.0,Loué,,surface_absente_ou_invalide,,False,False
+PRT-01966,particuliers,2022-10-14,vente,maison,Ziguinchor,Ziguinchor,,,171.3,5.0,1.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-01975,particuliers,2022-03-10,vente,terrain,Kolda,Médina Yoro Foulah,,,381.2,0.0,0.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-01985,particuliers,2019-11-15,vente,villa,Dakar,Pikine,,262304000.0,,2.0,2.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01986,particuliers,2018-01-30,vente,maison,Thiès,Thiès,,97312000.0,,6.0,4.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-01990,particuliers,2019-08-14,vente,appartement,Diourbel,Mbacké,,,166.2,6.0,2.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-01992,particuliers,2025-10-15,vente,villa,Saint-Louis,Saint-Louis,,,392.4,1.0,1.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-01993,particuliers,2022-08-24,vente,maison,Matam,Ourossogui,,,98.2,4.0,1.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-01995,particuliers,2018-05-22,vente,appartement,Dakar,Rufisque,,70834000.0,,2.0,4.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-01996,particuliers,2022-05-16,vente,maison,Matam,Matam,,173078000.0,,3.0,3.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-02000,particuliers,2023-04-28,location,studio,Matam,Ourossogui,,245000.0,,6.0,2.0,Loué,,surface_absente_ou_invalide,,False,False
+PRT-02001,particuliers,2019-06-19,vente,maison,Louga,Linguère,,,87.2,3.0,1.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-02002,particuliers,2024-07-21,vente,studio,Tambacounda,Tambacounda,,12462000.0,,1.0,1.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-02012,particuliers,2024-05-16,vente,appartement,Matam,Matam,,39934000.0,,1.0,1.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-02018,particuliers,2021-06-19,vente,studio,Kaolack,Guinguinéo,,,25.3,6.0,1.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-02020,particuliers,2022-12-14,vente,terrain,Ziguinchor,Bignona,,,,0.0,0.0,Vendu,,prix_absent_ou_invalide;surface_absente_ou_invalide,,False,False
+PRT-02026,particuliers,2018-09-07,vente,terrain,Ziguinchor,Bignona,,59097000.0,,0.0,0.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-02027,particuliers,2023-11-10,vente,appartement,Louga,Kébémer,,58826000.0,,6.0,2.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-02030,particuliers,2022-04-18,vente,chambre,Diourbel,Bambey,,,27.5,3.0,0.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-02035,particuliers,2024-12-29,location,villa,Louga,Linguère,,515000.0,,2.0,1.0,Disponible,,surface_absente_ou_invalide,,False,False
+PRT-02041,particuliers,2021-02-09,location,terrain,Kolda,Médina Yoro Foulah,,175000.0,,0.0,0.0,Disponible,,surface_absente_ou_invalide,,False,False
+PRT-02043,particuliers,2020-02-03,vente,maison,Ziguinchor,Ziguinchor,,,123.3,1.0,3.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-02046,particuliers,2019-01-02,location,maison,Kaffrine,Koungheul,,,,3.0,4.0,Disponible,,prix_absent_ou_invalide;surface_absente_ou_invalide,,False,False
+PRT-02050,particuliers,2019-11-10,vente,terrain,Thiès,Mbour,,,516.1,0.0,0.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-02054,particuliers,2024-04-11,vente,terrain,Fatick,Kaolack-Fatick,,87172000.0,,0.0,0.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-02074,particuliers,2022-10-22,location,terrain,Kolda,Médina Yoro Foulah,,,241.4,0.0,0.0,Disponible,,prix_absent_ou_invalide,,False,False
+PRT-02091,particuliers,2024-11-14,vente,studio,Sédhiou,Bounkiling,,18182000.0,,5.0,2.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-02093,particuliers,2024-04-25,vente,studio,Kaffrine,Birkelane,,,25.4,6.0,4.0,Vendu,,prix_absent_ou_invalide,,False,False
+PRT-02113,particuliers,2024-02-02,location,maison,Matam,Matam,,,99.8,4.0,2.0,Disponible,,prix_absent_ou_invalide,,False,False
+PRT-02118,particuliers,2019-10-14,vente,appartement,Kédougou,Saraya,,57035000.0,,1.0,2.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-02122,particuliers,2021-11-04,vente,chambre,Dakar,Pikine,,,26.1,4.0,0.0,À confirmer,,prix_absent_ou_invalide,,False,False
+PRT-02123,particuliers,2018-03-18,location,appartement,Saint-Louis,Saint-Louis,,220000.0,,1.0,2.0,Loué,,surface_absente_ou_invalide,,False,False
+PRT-02124,particuliers,2019-10-19,vente,maison,Saint-Louis,Richard-Toll,,88150000.0,,5.0,2.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-02125,particuliers,2023-12-07,vente,maison,Louga,Louga,,89136000.0,,4.0,3.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-02135,particuliers,2020-11-12,vente,terrain,Sédhiou,Bounkiling,,61359000.0,,0.0,0.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-02137,particuliers,2018-02-19,location,villa,Saint-Louis,Podor,,,151.3,5.0,3.0,Disponible,,prix_absent_ou_invalide,,False,False
+PRT-02139,particuliers,2020-12-08,vente,maison,Kaffrine,Kaffrine,,,175.3,6.0,4.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-02140,particuliers,2023-11-11,vente,studio,Kédougou,Kédougou,,17504000.0,,6.0,4.0,À confirmer,,surface_absente_ou_invalide,,False,False
+PRT-02148,particuliers,2021-09-11,vente,villa,Kolda,Médina Yoro Foulah,,395069000.0,,4.0,2.0,En vente,,surface_absente_ou_invalide,,False,False
+PRT-02154,particuliers,2020-04-15,vente,villa,Fatick,Fatick,,104282000.0,,6.0,1.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-02162,particuliers,2023-01-13,vente,villa,Kaffrine,Koungheul,,239883000.0,,5.0,2.0,Vendu,,surface_absente_ou_invalide,,False,False
+PRT-02167,particuliers,2023-12-13,vente,chambre,Diourbel,Bambey,,,11.7,4.0,0.0,En vente,,prix_absent_ou_invalide,,False,False
+PRT-02169,particuliers,2025-08-19,vente,appartement,Tambacounda,Goudiry,,99378000.0,,2.0,1.0,À confirmer,,surface_absente_ou_invalide,,False,False
+PRT-02186,particuliers,2025-02-16,vente,terrain,Saint-Louis,Podor,,49714000.0,,0.0,0.0,Vendu,,surface_absente_ou_invalide,,False,False
+NOT-02208,notaires,2021-03-13,vente,appartement,Fatick,Kaolack-Fatick,,,73.3,2.0,,Vente conclue,,prix_absent_ou_invalide,,False,False
+NOT-02245,notaires,2024-04-02,vente,appartement,Saint-Louis,Podor,,,110.4,5.0,,Vendu,,prix_absent_ou_invalide,,False,False
+NOT-02250,notaires,2022-09-29,vente,studio,Louga,Louga,,,44.6,1.0,,Vendu,,prix_absent_ou_invalide,,False,False
+NOT-02285,notaires,2021-01-11,vente,terrain,Dakar,Pikine,,,1498.0,0.0,,Vendu,,prix_absent_ou_invalide,,False,False
+NOT-02314,notaires,2021-01-29,vente,villa,Diourbel,Mbacké,,,364.1,1.0,,Vendu,,prix_absent_ou_invalide,,False,False
+NOT-02330,notaires,2024-02-25,vente,maison,Kaolack,Guinguinéo,,,66.9,6.0,,Acte signé,,prix_absent_ou_invalide,,False,False
+NOT-02361,notaires,2023-06-24,vente,maison,Diourbel,Diourbel,,,85.0,4.0,,Vendu,,prix_absent_ou_invalide,,False,False
+NOT-02362,notaires,2019-05-01,vente,appartement,Sédhiou,Goudomp,,,160.9,5.0,,Vendu,,prix_absent_ou_invalide,,False,False
+NOT-02394,notaires,,vente,maison,Kédougou,Kédougou,,69528000.0,238.3,2.0,,VENDU,,date_absente_ou_ininterpretable,,False,False
+NOT-02396,notaires,,vente,studio,Kolda,Vélingara,,30816000.0,54.5,2.0,,Vente conclue,,date_absente_ou_ininterpretable,,False,False
+NOT-02400,notaires,2018-11-16,vente,villa,Louga,Kébémer,,,214.8,3.0,,Vente conclue,,prix_absent_ou_invalide,,False,False
+NOT-02428,notaires,2020-03-14,vente,maison,Ziguinchor,Ziguinchor,,,211.9,1.0,,Vendu,,prix_absent_ou_invalide,,False,False
+NOT-02441,notaires,,vente,villa,Ziguinchor,Ziguinchor,,424671000.0,149.4,3.0,,Vendu,,date_absente_ou_ininterpretable,,False,False
+NOT-02474,notaires,2024-05-28,vente,appartement,Louga,Louga,,,153.9,4.0,,Vente conclue,,prix_absent_ou_invalide,,False,False
+NOT-02475,notaires,2024-07-24,vente,villa,Saint-Louis,Podor,,,121.2,1.0,,Vendu,,prix_absent_ou_invalide,,False,False
+NOT-02484,notaires,2024-10-02,vente,maison,Kédougou,Kédougou,,,115.5,3.0,,Vendu,,prix_absent_ou_invalide,,False,False
+NOT-02556,notaires,2022-01-07,vente,studio,Kolda,Kolda,,,29.9,2.0,,Vendu,,prix_absent_ou_invalide,,False,False
+NOT-02559,notaires,,vente,maison,Dakar,Pikine,,179791000.0,207.9,1.0,,Vendu,,date_absente_ou_ininterpretable,,False,False
+NOT-02565,notaires,,vente,villa,Ziguinchor,Ziguinchor,,266366000.0,180.3,3.0,,Vendu,,date_absente_ou_ininterpretable,,False,False
+NOT-02584,notaires,,vente,maison,Louga,Kébémer,,94166000.0,96.3,3.0,,Vendu,,date_absente_ou_ininterpretable,,False,False
+HIS-0072,import_historique,2019-10-16,vente,terrain,Ziguinchor,Bignona,,,190.8,0.0,0.0,Vendu,,prix_absent_ou_invalide,,False,False
+HIS-0128,import_historique,2018-05-16,vente,terrain,Saint-Louis,Podor,,,654.4,0.0,0.0,Vendu,,prix_absent_ou_invalide,,False,False
+HIS-0251,import_historique,2018-03-27,vente,studio,Thiès,Mbour,,,43.7,1.0,3.0,Vendu,,prix_absent_ou_invalide,,False,False
+HIS-0269,import_historique,2018-09-21,vente,appartement,Dakar,Keur Massar,,,148.7,3.0,4.0,Vendu,,prix_absent_ou_invalide,,False,False
+HIS-0325,import_historique,2019-04-17,vente,appartement,Thiès,Thiès,,,67.2,1.0,4.0,Vendu,,prix_absent_ou_invalide,,False,False
+HIS-0372,import_historique,2018-08-20,vente,studio,Saint-Louis,Saint-Louis,,,40.1,6.0,4.0,Vendu,,prix_absent_ou_invalide,,False,False
+HIS-0423,import_historique,2019-12-12,vente,local commercial,Louga,Linguère,,,121.9,0.0,1.0,Vendu,,prix_absent_ou_invalide,,False,False
+HIS-0430,import_historique,2019-09-02,vente,local commercial,Kaolack,Kaolack,,,106.9,0.0,3.0,Vendu,,prix_absent_ou_invalide,,False,False
+HIS-0478,import_historique,2018-12-02,vente,local commercial,Diourbel,Bambey,,,52.3,0.0,2.0,Vendu,,prix_absent_ou_invalide,,False,False
+HIS-0506,import_historique,2018-07-22,vente,maison,Matam,Ourossogui,,,208.8,1.0,1.0,Vendu,,prix_absent_ou_invalide,,False,False

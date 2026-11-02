@@ -1,0 +1,6 @@
+﻿source,lignes,identifiants_manquants,dates_manquantes,prix_manquants,surfaces_manquantes,doublons_exacts,doublons_probables
+agence_teranga,640,0,0,0,0,0,0
+import_historique,528,0,0,10,0,0,0
+notaires,410,0,6,14,0,0,0
+particuliers,731,0,0,63,79,0,0
+plateforme_immo_sn,875,0,0,6,5,14,0
