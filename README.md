@@ -277,11 +277,9 @@ Les ressources, références, documentations et supports d'apprentissage utilis�
 
 ## 👤 Auteur
 
-**[Ton nom]**
+**[Baye Gallasse]**
 
-- GitHub : [@username](https://github.com/username)
-- LinkedIn : [Ton profil LinkedIn]
+- GitHub : [@BayeGallasse-1719](https://github.com/BayeGallasse-1719/)
+- LinkedIn : [LinkedIn](https://www.linkedin.com/in/cheikh-mouhamadou-fallilou-ndour-a6b3932a0/)
 
-## 📄 Licence
 
-Ce dépôt est distribué sous la licence MIT. Consulte le fichier [LICENSE](LICENSE) pour plus d'informations.
