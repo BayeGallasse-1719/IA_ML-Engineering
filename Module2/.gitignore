@@ -1,0 +1,21 @@
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données et artefacts générés
+artifacts/
+reports/figures/
+reports/audit/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Secrets et configurations locales
+.env
+etape.md
